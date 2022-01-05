@@ -1,0 +1,164 @@
+﻿
+.bluebox {
+    float: left !important;
+}
+
+.blackbox {
+    float: left;
+}
+
+.property-item_head label {
+    right: 11px;
+    text-align: left !important;
+}
+
+.infoo div span:last-child {
+    float: left !important;
+}
+
+.property-item_head {
+    text-align: left !important;
+}
+
+.language-item ~ span label.grade {
+    float: right !important;
+}
+
+.property-item_head span {
+    float: left !important;
+    margin-left: 14px !important;
+}
+
+.property-item_head::after {
+    left: 26%;
+    bottom: 14px;
+}
+
+ul.history.one-line li {
+    float: left;
+    padding-left: 0;
+    min-height: 67px;
+}
+
+.property-item_body > *:first-child {
+    padding-left: 5px !important;
+    padding-right: 0 !important;
+}
+
+.item-row.w0 li > span {
+    width: auto;
+}
+
+.contact-info_item div {
+    float: initial;
+    padding: 0px;
+    padding-left: 0;
+}
+
+ul.history {
+    float: left !important;
+    padding-left: 0;
+}
+
+    ul.history li {
+        FLOAT: left !important;
+        margin-left: 0 !important;
+        padding-left: 0;
+    }
+
+.property-item_head {
+    padding-top: 0;
+}
+
+div.item-row li > span label {
+    line-height: 24px;
+    display: block;
+    height: 100%;
+    font-size: 10px;
+}
+
+
+div.item-row.w0 ul.history li label {
+    margin: 0px 1px;
+    font-size: 13px;
+    float: left !important;
+    text-align: left !important;
+    width: auto !important;
+}
+
+h2.subtitle.language-item {
+    border-left: 1.5px solid #0f609e;
+    padding-left: 6px;
+    border-right: 0px !important;
+    padding-right: 0px !important;
+}
+
+div.item-row li > span label.grade i {
+    float: left !important;
+}
+
+ul.history h2.subtitle {
+    float: left;
+}
+
+ul.history h3.subtitle {
+    font-size: 1em;
+}
+
+ul.history label.date {
+    font-size: 12px;
+}
+
+.infoo {
+    font-size: 14px;
+}
+
+ul.list-item li p {
+    font-size: 14px;
+    padding-left: 0 !important;
+    border-left: 0;
+}
+
+.property-item.social__list ul.history li span label:last-child {
+    float: left !important;
+}
+
+div.contact-item span:first-child {
+    float: left !important;
+    margin-right: 15px !important;
+    margin-left: 0 !important;
+}
+
+h2.language-item ~ span label:first-child {
+    font-size: 11px !important;
+}
+
+.property-item.social__list ul.history li span label:first-child {
+    float: left !important;
+    margin-left: 0;
+    margin-right: 5px;
+    width: 20px !important;
+}
+.circle-progress__title {
+    font-size: 10px;
+}
+.blackbox .property-item.skill__list .grade {
+    float: right !important;
+}
+label.Education-Grade{
+    font-family:mainfont !important;
+}
+contact-info_item > div span:first-child {
+    float: none;
+}
+
+.infoo div span:last-child {
+    text-align: left !important;
+}
+.contact-info_item > div span:first-child{
+    float:initial;
+    margin-right:0 !important;
+}
+ul.exp-desc li {
+    padding-left: 0 !important;
+}
